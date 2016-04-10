@@ -4,6 +4,11 @@
 
 express
 
+json-path
+async-function-queue
+
+redux-devtools redux-devtools-dock-monitor redux-devtools-log-monitor
+
 ## Dev
 
     nodemon --watch webpack.config.dev.js devServer.js
